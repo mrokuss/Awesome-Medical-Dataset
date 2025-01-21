@@ -1,6 +1,6 @@
 # Awesome-Medical-Dataset [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Last updated: 2025/01/20
+Last updated: 2025/01/21
 
 🔥🔥🔥 Medical datasets have transformed the landscape of healthcare research and development across the globe. This comprehensive list features prominent publications and resources related to medical datasets, particularly those used in imaging and electronic health records. It also includes tools for dataset curation and management, educational courses, tutorials on dataset analysis, and access to all publicly available medical dataset checkpoints and APIs. This curated compilation aims to equip researchers, clinicians, and data scientists with essential resources to advance the field of medical research and improve patient care outcomes.
 
@@ -25,7 +25,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 - [Imaging](#Imaging)
   - [Whole Body (10)](#whole-body)
   - [Head and Neck (55)](#head-and-neck)
-  - [Chest (42)](#chest)
+  - [Chest (43)](#chest)
   - [Abdomen (53)](#abdomen)
   - [Heart (14)](#heart)
   - [Bones (15)](#bones)
@@ -167,6 +167,7 @@ If you want to introduce or know more dataset, you are welcome to submit an issu
 | [Chest X-Ray Imaging_(Pneumonia)](./resources/ChestX-RayImaging_Pneumonia.md) | 2D X-ray, 5856 Cases, 2 Categories of Pneumonia Classification                                           | [Project Homepage](https://www.heywhale.com/mw/dataset/62c2ac49913a54a66037f872/content)           | 2022-07      | -                              |
 | [Parse 2022](./resources/Parse.md)                                            | 3D CT, 200 Cases, 1 Category of Pulmonary Artery Segmentation                                            | [Grand Challenge](https://parse2022.grand-challenge.org/)                                          | 2022-04      | MICCAI'2022                    |
 | [ATM22](./resources/ATM22.md)                                                 | 3D CT, 500 Cases, 1 Category of Lung Airway Segmentation                                                 | [Grand Challenge](https://atm22.grand-challenge.org/)                                              | 2022-05      | MICCAI'2022                    |
+| [Scientific Data BRAX](./resources/BRAX.md)                                   | 2D X-ray, 24,959 Cases, 19,351 Patients, 40,967 Pictures, Brazilian Chest X-ray                          | [Project Homepage](https://physionet.org/content/brax/1.1.0/)                                      | 2022-06      | -                              |
 | [MVSeg-3DTEE 2023](./resources/MVSeg-3DTEE.md)                                | 3D Ultrasound, 175 Cases, 2 Categories of Mitral Valve Segmentation                                      | [Synapse](https://www.synapse.org/#!Synapse:syn51186045/wiki/621356)                               | 2023         | MICCAI'2023                    |
 | [TDSC-ABUS2023](./resources/TDSC-ABUS2023.md)                                 | 3D Ultrasound, 200 Cases, 1 Category of Breast Tumor Detection, Segmentation and Classification          | [Grand Challenge](https://tdsc-abus2023.grand-challenge.org/TDSC-ABUS2023/)                        | 2023-03      | MICCAI'2023                    |
 | [AIIB23](./resources/AIIB23.md)                                               | 3D CT, 312 Cases, 1 Category of Lung Airway Segmentation                                                 | [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/13238)                                     | 2023-05      | MICCAI'2023                    |
